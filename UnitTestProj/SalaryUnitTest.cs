@@ -31,7 +31,7 @@ namespace UnitTestProj
 
             var excepted = new double[] { 95000, 0, 5000, 0, 0 };
             var actual = Salary.CalculationSalary(workDays, tasks, 100000);
-            Assert.AreEqual(excepted, actual);
+            Assert.AreEqual((excepted[0], excepted[1], excepted[2], excepted[3], excepted[4]), (actual[0], actual[1], actual[2], actual[3], actual[4]));
         }
 
         [TestMethod]
@@ -57,7 +57,7 @@ namespace UnitTestProj
 
             var excepted = new double[] { 102000, 2000, 0, 0, 0 };
             var actual = Salary.CalculationSalary(workDays, tasks, 100000);
-            Assert.AreEqual(excepted, actual);
+            Assert.AreEqual((excepted[0], excepted[1], excepted[2], excepted[3], excepted[4]), (actual[0], actual[1], actual[2], actual[3], actual[4]));
         }
 
         [TestMethod]
@@ -88,7 +88,7 @@ namespace UnitTestProj
 
             var excepted = new double[] { 102000, 2000, 0, 0, 0 };
             var actual = Salary.CalculationSalary(workDays, tasks, 100000);
-            Assert.AreEqual(excepted, actual);
+            Assert.AreEqual((excepted[0], excepted[1], excepted[2], excepted[3], excepted[4]), (actual[0], actual[1], actual[2], actual[3], actual[4]));
         }
         [TestMethod]
         public void TestWithWorkingOne()
@@ -113,7 +113,7 @@ namespace UnitTestProj
 
             var excepted = new double[] { 102000, 2000, 0, 0, 0 };
             var actual = Salary.CalculationSalary(workDays, tasks, 100000);
-            Assert.AreEqual(excepted, actual);
+            Assert.AreEqual((excepted[0], excepted[1], excepted[2], excepted[3], excepted[4]), (actual[0], actual[1], actual[2], actual[3], actual[4]));
         }
 
         [TestMethod]
@@ -135,13 +135,13 @@ namespace UnitTestProj
             }
 
             var tasks = new List<TaskDTO>();
+            tasks.Add(new TaskDTO() { Deadline = dateNow, FinishActualTime = dateNow.AddDays(14), FullTitle = "Разработка сайта" });
             tasks.Add(new TaskDTO() { Deadline = dateNow, FinishActualTime = dateNow.AddDays(14), FullTitle = "Разработка игры" });
-            tasks.Add(new TaskDTO() { Deadline = dateNow, FinishActualTime = dateNow.AddDays(14), FullTitle = "Разработка игры" });
-            tasks.Add(new TaskDTO() { Deadline = dateNow, FinishActualTime = dateNow.AddDays(14), FullTitle = "Разработка игры" });
+            tasks.Add(new TaskDTO() { Deadline = dateNow, FinishActualTime = dateNow.AddDays(14), FullTitle = "Разработка приложения" });
 
             var excepted = new double[] { 16242, 0, 8400, 0, 0 };
             var actual = Salary.CalculationSalary(workDays, tasks, 20000);
-            Assert.AreEqual(excepted, actual);
+            Assert.AreEqual((excepted[0], excepted[1], excepted[2], excepted[3], excepted[4]), (actual[0], actual[1], actual[2], actual[3], actual[4]));
         }
     }
 }

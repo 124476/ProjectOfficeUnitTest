@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF1383D5-8EB0-4B7E-ACAB-22ECBB4995D7}|TestConsole\\TestConsole.csproj|c:\\users\\stipo6\\source\\repos\\salaryaccountinglib\\testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF1383D5-8EB0-4B7E-ACAB-22ECBB4995D7}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\salaryaccountinglib\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|solutionrelative:salaryaccountinglib\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53D265DD-37C4-4992-AB2C-7614DA7F305E}|UnitTestProj\\UnitTestProj.csproj|C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\unittestproj\\salaryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53D265DD-37C4-4992-AB2C-7614DA7F305E}|UnitTestProj\\UnitTestProj.csproj|solutionrelative:unittestproj\\salaryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF1383D5-8EB0-4B7E-ACAB-22ECBB4995D7}|TestConsole\\TestConsole.csproj|c:\\users\\stipo6\\source\\repos\\salaryaccountinglib\\testconsole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|c:\\users\\stipo6\\source\\repos\\salaryaccountinglib\\salaryaccountinglib\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|solutionrelative:salaryaccountinglib\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1383D5-8EB0-4B7E-ACAB-22ECBB4995D7}|TestConsole\\TestConsole.csproj|C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1383D5-8EB0-4B7E-ACAB-22ECBB4995D7}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TestConsole||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1383D5-8EB0-4B7E-ACAB-22ECBB4995D7}|TestConsole\\TestConsole.csproj|C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\testconsole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DF1383D5-8EB0-4B7E-ACAB-22ECBB4995D7}|TestConsole\\TestConsole.csproj|solutionrelative:testconsole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\salaryaccountinglib\\statusday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|solutionrelative:salaryaccountinglib\\statusday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TestConsole||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\salaryaccountinglib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,9 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\salaryaccountinglib\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22177856-959A-40AB-BD9F-432853B4BC32}|SalaryAccountingLib\\SalaryAccountingLib.csproj|solutionrelative:salaryaccountinglib\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF1383D5-8EB0-4B7E-ACAB-22ECBB4995D7}|TestConsole\\TestConsole.csproj|c:\\users\\stipo6\\source\\repos\\salaryaccountinglib\\testconsole\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,11 +45,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 369,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\TestConsole\\App.config",
               "RelativeDocumentMoniker": "TestConsole\\App.config",
@@ -60,46 +57,43 @@
               "RelativeToolTip": "TestConsole\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-23T16:38:34.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T16:38:34.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "TestConsole",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\TestConsole\\TestConsole.csproj",
               "RelativeDocumentMoniker": "TestConsole\\TestConsole.csproj",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\TestConsole\\TestConsole.csproj",
               "RelativeToolTip": "TestConsole\\TestConsole.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-23T16:06:20.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T16:06:20.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SalaryUnitTest.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\UnitTestProj\\SalaryUnitTest.cs",
               "RelativeDocumentMoniker": "UnitTestProj\\SalaryUnitTest.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\UnitTestProj\\SalaryUnitTest.cs",
               "RelativeToolTip": "UnitTestProj\\SalaryUnitTest.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAANAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAIwJIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T15:11:06.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\TestConsole\\Program.cs",
               "RelativeDocumentMoniker": "TestConsole\\Program.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\TestConsole\\Program.cs",
               "RelativeToolTip": "TestConsole\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAfAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwB0AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T15:06:14.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T15:06:14.035Z"
             },
             {
               "$type": "Document",
@@ -127,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StatusDay.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\SalaryAccountingLib\\StatusDay.cs",
               "RelativeDocumentMoniker": "SalaryAccountingLib\\StatusDay.cs",
@@ -135,8 +129,7 @@
               "RelativeToolTip": "SalaryAccountingLib\\StatusDay.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T14:17:54.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T14:17:54.681Z"
             },
             {
               "$type": "Document",
@@ -148,8 +141,7 @@
               "RelativeToolTip": "SalaryAccountingLib\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T14:14:16.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T14:14:16.253Z"
             },
             {
               "$type": "Document",
@@ -159,7 +151,7 @@
               "RelativeDocumentMoniker": "SalaryAccountingLib\\Salary.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\SalaryAccountingLib\\SalaryAccountingLib\\Salary.cs",
               "RelativeToolTip": "SalaryAccountingLib\\Salary.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAgwBYAAAARAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T14:11:47.649Z",
               "EditorCaption": ""
